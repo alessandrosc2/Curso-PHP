@@ -94,7 +94,7 @@
         </div>
     </main>
     <footer class="rodape">
-        CURSO DE PHP - COD3R
+        CURSO DE PHP - COD3R <?= date('Y'); ?>
     </footer>
 </body>
 </html>
